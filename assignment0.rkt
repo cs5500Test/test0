@@ -5,3 +5,5 @@
 ;; CS2500 
 ;; Assignemnt 0 
 ;; Therapon Skoteiniotis (t@t.com)
+
+;; I'll start working after I get some coffee
