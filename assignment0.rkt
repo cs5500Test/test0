@@ -8,5 +8,11 @@
 
 ;; I'll start working after I get some coffee
 
+;; add1 : Number -> Number 
+;; Given a Number (n) return its successor (n + 1) 
 (define (add1 n) 
  (+ 1 n ))
+
+(check-expect (add1 0) 1) 
+
+
