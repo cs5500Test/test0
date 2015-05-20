@@ -7,3 +7,6 @@
 ;; Therapon Skoteiniotis (t@t.com)
 
 ;; I'll start working after I get some coffee
+
+(define (add1 n) 
+ (+ 1 n ))
